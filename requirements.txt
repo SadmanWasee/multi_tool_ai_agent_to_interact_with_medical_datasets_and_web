@@ -1,0 +1,7 @@
+langchain-community
+langchain-classic
+langchain-ollama
+langchain-tavily
+sqlalchemy
+python-dotenv
+openai-agents
